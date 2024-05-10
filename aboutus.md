@@ -14,10 +14,10 @@ Our goal is to align your data privacy, cybersecurity, and technology compliance
 
 ### Our Difference
 We look beyond the traditional legal models to create cost-effective, client-friendly solutions. The majority of our services are offered with fixed-fee models. We work with our clients to develop solutions that understand budget-conscious approaches to address legal services. These solutions provide:
-* Budgeting Certainty: Know exactly how much legal services will cost upfront.
-* Improved Cash Flow: Spread the cost of legal services over a payment plan, when available.
-* Encourages Efficiency: We want to work efficiently and use technology to provide better services to you. 
-* Reduced Client Stress: Eliminates the worry of mounting hourly bills.
+* <u>Budgeting Certainty</u>: Know exactly how much legal services will cost upfront.
+* <u>Improved Cash Flow</u>: Spread the cost of legal services over a payment plan, when available.
+* <u>Encourages Efficiency</u>: We want to work efficiently and use technology to provide better services to you. 
+* <u>Reduced Client Stress</u>: Eliminates the worry of mounting hourly bills.
 
 ### Contact Jordan
 
