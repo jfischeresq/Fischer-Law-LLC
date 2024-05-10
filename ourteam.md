@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Our Team
+permalink: /ourteam/
 ---
 
 As part of my work, I am involved in a number of different projects, with the aim of furthering my own knowledge in privacy and security, as well as to help to explore concepts impacting societal privacy and security. 
