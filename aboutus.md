@@ -8,7 +8,7 @@ permalink: /aboutus/
 
 In today's rapidly changing technological landscape, legal guidance on evolving privacy and cyber matters is critical to businesses across industries and around the globe. Whether you're a startup founder, a seasoned entrepreneur, or a well-established business, having a trusted technology lawyer on your side can make all the difference.
 
-Our firm is focused exclusively on data privacy, cybersecurity, and technology law. With over a decade of experience assisting clients across industries, we develop cost-effective and long-lasting solutions to data governance, technology, and privacy. 
+We are a 100% women-owned law firm focused exclusively on data privacy, cybersecurity, and technology law. With over a decade of experience assisting clients across industries, we develop cost-effective and long-lasting solutions to data governance, technology, and privacy. 
 
 Our goal is to align your data privacy, cybersecurity, and technology compliance with your business goals, creating a compliance strategy that can grow and evolving with your business. 
 
