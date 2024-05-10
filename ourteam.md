@@ -4,40 +4,50 @@ title: Our Team
 permalink: /ourteam/
 ---
 
-As part of my work, I am involved in a number of different projects, with the aim of furthering my own knowledge in privacy and security, as well as to help to explore concepts impacting societal privacy and security. 
+## Jordan L. Fischer, Esq.
 
-My research focuses on data privacy and cybersecurity, exploring the convergence of the law and technology and the practical implications of regional data protection regulations within a backdrop of the global economy. I like to apply my practical experience working with multinational companies to better understand the evolution of security and privacy within changing regulatory and legal frameworks to balance consumer and end-user rights with enterprise innovation and efficiencies. 
+Jordan L. Fischer, founding partner and owner of Fischer Law, LLC, is a self-proclaimed privacy and technology legal nerd and entrepreneur. With her background in owning and operating businesses, and her experience working across the globe, Jordan brings extensive experience and practical knowledge to the global intersection of law and technology. Jordan understands the many demands on businesses, and works to create a balanced approach to privacy and data security compliance.
 
-My goal: develop real solutions in the privacy, security, and technology space to help society address the growing reliance on technology in our digital universe.
+Jordan works with businesses to continually evaluate and assess legal and business opportunities and risks to provide public and private sector clients with practical data privacy and cybersecurity counsel and business strategic advice. Jordan’s goal is to understand your business, your approach, your risks, and then work with you to create effective, long-lasting solutions to your data privacy and technology legal challenges. 
 
-### My Current Projects
+With more than ten years of experience in data privacy, cybersecurity, and technology law, Jordan advises clients on a variety of regulations, including but not limited to the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA)/California Privacy Rights Act (CPRA), the Fair Credit Reporting Act (FCRA), and the Driver’s Privacy Protection Act (DPPA). Additionally, she provides counsel on biometric data laws, global data breach standards, and federal and state unfair business practices acts and privacy frameworks such as International Standards Organization (ISO) 27001 and 27701, the National Institute of Standards and Technology (NIST), and the Payment Credit Card Industry Data Security Standard (PCI DSS).
 
-Currently, I am working on a number of different projects, both academically and in the private sector:
+Jordan regularly represents clients in contractual negotiations pertaining to technology, data management, security, and privacy, and she assists in the development of customized, right-sized compliance programs to address numerous regulatory requirements and industry best practices. She also advises clients on cross-border data management and information governance, developing business-oriented and cost-effective strategies for information security, data privacy, and technology compliance.
 
-* **Geo-location Tracking and Privacy Concerns**
+Jordan's experience provides her the opportunity to represent clients in a wide range of industries, gaining valuable insight into sectors including agriculture, adtech, emerging technologies (blockchain, Internet of Things (IoT), and Artificial Intelligence (AI)), gaming, healthcare, manufacturing, and pharmaceutical. She advises clients on third-party management, addressing the privacy and security of their supply chain. She also collaborates with clients to develop business solutions that incorporate privacy-by-design and security-by-design principles, fusing regulatory requirements with practical, real-world solutions.
 
-With the increasing focus on geo-location tracking, especially in the healthcare context during COVID-19, privacy concerns are of a top concern to many individuals, businesses, and governments. As part of the many global initiatives focused on this area, I am currently working to help develop effective solutions that incorporate privacy when using statistical analysis to trace potential health outbreaks.
+In addition to her private practice, Jordan is a Cybersecurity Lecturer at the University of California, Berkeley. Her academic research investigates the convergence of law and technology, as well as the practical implications of regional data protection regulations in the context of the global economy.
 
-My research partners and I submitted our initial research for the Global Legal Hackathon, a brief "sprint" project focused on legal concerns during COVID-19. Our full submission can be found [here](https://challenge.globallegalhackathon.com/gallery/5ec80f01136ce600448b0c4a). 
+Jordan is a globally recognized speaker on a wide range of technology and privacy law topics. In addition, she hosts the podcast Cybersecurity and Data Privacy: The New Frontier for the American Bar Association, which concentrates on data security, privacy, and related legal topics. On the podcast, Jordan discusses a variety of topics focused on law, technology, privacy, and cybersecurity from the perspective of various industries.
 
-* **Blockchain and Data Protection Laws**
+Jordan is a Certified Information Privacy Professional for Europe (CIPP/E) and a Certified Information Privacy Professional for the United States (CIPP/US), as well as a Certified Information Privacy Manager (CIPM), as certified by the International Association of Privacy Professionals. She is a certified trainer for the International Association of Privacy Professionals.
 
-My initial research on this topic is summarized in this blog post, ["Blockchain and Data Protection Laws: Can they Co-Exist?"](https://xpanlawgroup.com/blockchain-and-data-protection-laws-can-they-co-exist/). 
+### Honors & Recognitions
+* Lawyer on the Fast Track, The Legal Intelligencer (2023)
+* Pennsylvania Super Lawyers® Rising Star honoree (2019-2022)
+* Main Line Today – Top Lawyers – Cybersecurity (2021, 2022)
+* ABA ‘On the Rise – Top 40 Young Lawyers’, 2022 Honoree 
+* SC Media – 2022 Women In IT Security, Honoree in the Advocate Category
+* Exeleon Magazine – 30 Most Transformational Leaders to Follow in 2022
+* Host, American Bar Association’s ‘Cybersecurity and Data Privacy: The New Frontier’ Podcast
+* European Union ERASMUS Grant Recipient, 2020
 
-I continue to expand my research, focusing on legislative and governmental approaches to creating workable solutions to creating blockchain solutions <em>with</em> privacy built-in. 
+### Associations & Memberships
+* American Bar Association, Business Law Fellow, 2020-2022
+* American Bar Association, Vice Chair of the Big Data Committee, 2022-2023
+* Pennsylvania Bar Association, Chair of the Cybersecurity and Data Privacy Committee
+* California Bar Association
+* New Jersey Bar Association
+* Forbes Business Council Member, 2022
+* International Association of Privacy Professionals (IAPP), Member
+* University of California, Berkeley, Cybersecurity Lecturer
+* former Thomas R. Kline School of Law, Drexel University, Law Professor
+* former Chestnut Hill College, Adjunct Professor
+* West Chester Friends School, Board Member
+* Appointed Fulbright Specialist in Cybersecurity and Data Privacy
 
-* **Operationalizing Privacy**
 
-One of the challenges in the privacy space for many entities is creating workable solutions to incorpriating privacy within their infrastructure. You can learn more about this project, and my forthcoming eBook, by visiting [Book](jordanfischer.me/book/).
-
-* **Creating consistencies in global data privacy management**
-
-With the explosion of privacy regulations in most regions of the world, a key question is <em>how do we great effective global solutions to privacy that meet varying, and sometimes conflicting, legal requirements?</em> I work with multinational companies to research practical solutions to global privacy requirements.
-
-### My Future Project and Research Interests
-
-In the near and distant future, I hope to work on projects on the following topics:
-
-1. Creating workable solutions to privacy and security litigation to balance the protection of the individual and business innovation.
-
-2. The role of antitrust/competition law in promoting privacy and security in the private sector.
+### Certifications
+* Certified Information Privacy Professional (CIPP) for United States law (US) through the International Association of Privacy Professionals (IAPP)
+* Certified Information Privacy Professional (CIPP) for European law (E) through the International Association of Privacy Professionals (IAPP)
+* Certified Information Privacy Manager (CIPM) through the International Association of Privacy Professionals (IAPP)
