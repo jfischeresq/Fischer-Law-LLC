@@ -80,3 +80,4 @@ We represent clients across of a variety of industries, including:
 * Retail
 * Sports & Entertainment
 * Technology
+* <img style="float: center; width:50%; height:50%; margin:10px; " src="images/Jordan Fischer Firm Photo.jpg">
