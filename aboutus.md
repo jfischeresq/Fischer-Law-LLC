@@ -19,11 +19,8 @@ We look beyond the traditional legal models to create cost-effective, client-fri
 * <u>Encourages Efficiency</u>: We want to work efficiently and use technology to provide better services to you. 
 * <u>Reduced Client Stress</u>: Eliminates the worry of mounting hourly bills.
 
-### Contact Jordan
-
-The easiest way to schedule a time to connect for a virtual meeting is to use [this link to my calender](https://calendly.com/jordan-fischer/15min) to schedule at your convenience. 
-
-You can also use the following methods to contact us:
+### Contact Fischer Law
+To reach out to our team to schedule a consultation, please contact us via:
 
 * Email: [info@jordanfischerlaw.com](mailto:info@jordanfischerlaw.com)
 * Phone: 267-536-9376
