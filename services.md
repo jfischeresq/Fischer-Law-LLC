@@ -62,7 +62,6 @@ We work with organizations to develop compliant solutions for the global transfe
 
 Fischer Law represents and advises clients on enforcement actions by regulatory and law enforcement agencies including the European Supervisory Authorities, the Federal Trade Commission (FTC), state attorneys general, and other regulatory bodies.
 
-## Example Industries
+## We represent clients across of a variety of industries, including:
 
-We represent clients across of a variety of industries, including:
 <img style="float: center; width:50%; height:50%; margin:10px; " src="images/Industries.png">
