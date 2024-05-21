@@ -65,19 +65,4 @@ Fischer Law represents and advises clients on enforcement actions by regulatory 
 ## Example Industries
 
 We represent clients across of a variety of industries, including:
-* Ad Tech
-* Cannabis
-* Education
-* Financial
-* Food & Agriculture
-* Gaming
-* Government
-* Health Law
-* HR & Staffing
-* Insurance
-* Manufacturing
-* Pharma
-* Retail
-* Sports & Entertainment
-* Technology
-* <img style="float: center; width:50%; height:50%; margin:10px; " src="images/Jordan Fischer Firm Photo.jpg">
+<img style="float: center; width:50%; height:50%; margin:10px; " src="images/Industries.png">
