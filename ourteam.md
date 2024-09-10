@@ -18,13 +18,14 @@ Jordan regularly represents clients in contractual negotiations pertaining to te
 
 Jordan's experience provides her the opportunity to represent clients in a wide range of industries, gaining valuable insight into sectors including agriculture, adtech, emerging technologies (blockchain, Internet of Things (IoT), and Artificial Intelligence (AI)), gaming, healthcare, manufacturing, and pharmaceutical. She advises clients on third-party management, addressing the privacy and security of their supply chain. She also collaborates with clients to develop business solutions that incorporate privacy-by-design and security-by-design principles, fusing regulatory requirements with practical, real-world solutions.
 
-In addition to her private practice, Jordan is a Cybersecurity Lecturer at the University of California, Berkeley. Her academic research investigates the convergence of law and technology, as well as the practical implications of regional data protection regulations in the context of the global economy.
+In addition to her private practice, Jordan is a Cybersecurity Lecturer at the University of California, Berkeley and a Visiting Research Professor in the Center for Law and Transformational Technology at Drexel University's Thomas R. Kline School of Law. Her academic research investigates the convergence of law and technology, as well as the practical implications of regional data protection and artificial intelligence regulations in the context of the global economy.
 
 Jordan is a globally recognized speaker on a wide range of technology and privacy law topics. In addition, she hosts the podcast Cybersecurity and Data Privacy: The New Frontier for the American Bar Association, which concentrates on data security, privacy, and related legal topics. On the podcast, Jordan discusses a variety of topics focused on law, technology, privacy, and cybersecurity from the perspective of various industries.
 
 Jordan is a Certified Information Privacy Professional for Europe (CIPP/E) and a Certified Information Privacy Professional for the United States (CIPP/US), as well as a Certified Information Privacy Manager (CIPM), as certified by the International Association of Privacy Professionals. She is a certified trainer for the International Association of Privacy Professionals.
 
 ### Honors & Recognitions
+* 2025 Edition inclusion, The Best Lawyers in America® for Privacy and Security Law
 * Lawyer on the Fast Track, The Legal Intelligencer (2023)
 * Pennsylvania Super Lawyers® Rising Star honoree (2019-2022)
 * Main Line Today – Top Lawyers – Cybersecurity (2021, 2022)
